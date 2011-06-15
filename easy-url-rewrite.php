@@ -2,7 +2,7 @@
 /*
 Plugin Name: Easy url rewrite
 Plugin URI: http://wordpress.org/extend/plugins/easy-url-rewrite/
-Description: Use custom made urls as easy as include them in an array! It shouldn't be hard to make custom urls!
+Description: Use custom made urls as easy as include them in an array! It shouldn't be hard to make custom urls! Activate the plugin, don't forget to turn on permalinks and then go to your-blog-url.com/hello_world
 Version: 0.1
 Author: Joel Larsson
 Author URI: http://bolmaster2.com
